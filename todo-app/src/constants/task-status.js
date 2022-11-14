@@ -1,0 +1,4 @@
+export const TASK_STATUS = {
+  COMPLETE: "COMPLETE",
+  UNCOMPLETED: "UNCOMPLETED",
+};
